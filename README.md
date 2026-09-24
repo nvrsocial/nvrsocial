@@ -12,7 +12,8 @@
 #### 🛠 Tech stack
 
 <details>
-<summary><b>Stack (click to expand)</b></summary>
+<summary><b>Stack -> click :)</b></summary>
+
 
 **Languages:** Java, C, C++, Python
 
