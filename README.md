@@ -1,16 +1,31 @@
-## Hi there 👋
+### Backend Developer
 
-<!--
-**nvrsocial/nvrsocial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Active
+- **[online-shop-backend](https://github.com/nvrsocial/online-shop-backend)**
+
+---
+
+#### 🛠 Tech stack
+
+<details>
+<summary><b>Stack (click to expand)</b></summary>
+
+**Languages:** Java, C, C++, Python
+
+**Backend:** Spring, Spring Boot, REST API
+
+**Data:** PostgreSQL, Redis
+
+**Build & dependency management:** Gradle, Maven
+
+**Version control & CI/CD:** Git, GitHub, GitLab, Docker
+
+**Hardware:** Arduino, Raspberry Pi
+
+**AI-assisted development:** Cursor, Claude Code, GitHub Copilot, ChatGPT
+
+</details>
