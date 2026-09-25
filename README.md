@@ -5,10 +5,10 @@
 ### Project
 
 ### Active
-  ###Backend
+###Backend
   - **[online-shop-backend](https://github.com/nvrsocial/online-shop-backend)**
 
-  ###Data
+###Data
   - **[data-science](https://github.com/nvrsocial/data-science)** 
 
 ---
