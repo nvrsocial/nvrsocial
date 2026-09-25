@@ -5,14 +5,16 @@
 ### Project
 
 ### Active
+  ##Backend
 - **[online-shop-backend](https://github.com/nvrsocial/online-shop-backend)**
+
+  ##Data
+- **[data-science](https://github.com/nvrsocial/data-science)** 
 
 ---
 
-#### 🛠 Tech stack
-
 <details>
-<summary><b>Stack -> click :)</b></summary>
+<summary><b>🛠 Tech stack</b></summary>
 
 
 **Languages:** Java, C, C++, Python
