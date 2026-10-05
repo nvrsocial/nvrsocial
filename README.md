@@ -10,7 +10,7 @@ soon...
 
 ##Active 
 
-**[Licensed Key Marketplace | Магазин цифровых ключей](https://github.com/nvrsocial/license-key-market)
+  - [Licensed Key Marketplace | Магазин цифровых ключей](https://github.com/nvrsocial/license-key-market)
 
 ---
 
