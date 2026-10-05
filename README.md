@@ -3,13 +3,7 @@
 ---
 
 ### Project
-
-### Active
-  Backend
-  - **[license-key-market](https://github.com/nvrsocial/license-key-market)**
-
-  Data
-  - **[data-science](https://github.com/nvrsocial/data-science)** 
+  
 
 ---
 
