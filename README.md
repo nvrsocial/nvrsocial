@@ -4,13 +4,13 @@
 
 ### Completed Projects | Portfolio
 
-- [Licensed Key Marketplace | Магазин цифровых ключей](https://github.com/nvrsocial/license-key-market) - 85/100%
+- [Licensed Key Marketplace | Магазин цифровых ключей](https://github.com/nvrsocial/license-key-market)
 
 ---
 
 ### Active 
 
-  - [Licensed Key Marketplace | Магазин цифровых ключей](https://github.com/nvrsocial/license-key-market)
+  ...
 
 ---
 
