@@ -10,7 +10,7 @@
 
 ### Active 
 
--[Data Science | ML](https://github.com/nvrsocial/data-science)
+- [Data Science | ML](https://github.com/nvrsocial/data-science)
 
 ---
 
