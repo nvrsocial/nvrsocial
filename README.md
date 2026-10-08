@@ -5,12 +5,11 @@
 ### Completed Projects | Portfolio
 
 - [Licensed Key Marketplace | Магазин цифровых ключей](https://github.com/nvrsocial/license-key-market)
+- [URL Shortener | Docker Compose](https://github.com/nvrsocial/url-shortener)
 
 ---
 
 ### Active 
-
-- [URL Shortener + Analytics](https://github.com/nvrsocial/url-shortener)
 
 - [Data Science | ML](https://github.com/nvrsocial/data-science)
 
