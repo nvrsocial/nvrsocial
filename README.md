@@ -16,7 +16,7 @@
 ---
 
 <details>
-<summary><b>🛠 Tech stack</b></summary>
+<summary><b>Tech stack(click)</b></summary>
 
 
 **Languages:** Java, C, C++, Python
