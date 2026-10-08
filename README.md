@@ -2,7 +2,7 @@
 
 ---
 
-### Completed Projects | Portfolio
+### Completed Projects
 
 - [Licensed Key Marketplace | Магазин цифровых ключей](https://github.com/nvrsocial/license-key-market)
 - [URL Shortener | Docker Compose](https://github.com/nvrsocial/url-shortener)
