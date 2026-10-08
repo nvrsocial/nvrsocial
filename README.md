@@ -31,6 +31,6 @@
 
 **Hardware:** Arduino, Raspberry Pi
 
-**AI-assisted development:** Cursor, Claude Code, GitHub Copilot, ChatGPT
+**AI-assisted development:** Cursor, Claude Code, ChatGPT
 
 </details>
