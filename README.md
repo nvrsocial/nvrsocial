@@ -11,11 +11,7 @@
 
 ### Active 
 
-- [Taskflow | Project management system](https://github.com/nvrsocial/taskflow)
-
-### Data
-
-- [Data Science | ML](https://github.com/nvrsocial/data-science)
+- [Glintwein | Project management system](https://github.com/nvrsocial/taskflow)
 
 ---
 
