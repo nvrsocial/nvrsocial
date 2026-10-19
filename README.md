@@ -19,7 +19,7 @@
 <summary><b>Tech stack(click)</b></summary>
 
 
-**Languages:** Java, C, C++, Python
+**Languages:** Java, C, C++, Python, Lua
 
 **Backend:** Spring, Spring Boot, REST API
 
