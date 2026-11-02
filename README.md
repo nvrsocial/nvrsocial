@@ -1,5 +1,4 @@
 **Java Backend Developer**
-
 ---
 
 ## Core skills
@@ -11,10 +10,6 @@
 - **Version control & ci/cd:** Git · GitHub · GitLab · Docker
 - **Hardware:** Arduino · Raspberry Pi
 - **Ai-assisted development:** Cursor · Claude Code · ChatGPT
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,lua,spring,postgres,redis,gradle,maven,git,docker&perline=8" />
-</p>
 
 ---
 
