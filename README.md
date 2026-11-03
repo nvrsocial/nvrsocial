@@ -9,14 +9,14 @@
 - **Build & dependency management:** Gradle · Maven
 - **Version control & ci/cd:** Git · GitHub · GitLab · Docker
 - **Hardware:** Arduino · Raspberry Pi
-- **Ai-assisted development:** Cursor · Claude Code · ChatGPT
+- **Ai-assisted development:** Claude Code · ChatGPT
 
 ---
 
 ## Projects
 
 ### Active
-- [**Glintwein**](https://github.com/nvrsocial/glintwein): project management system
+- [**Glintwein**](https://github.com/nvrsocial/glintwein)
 
 ### Completed
 - [**Licensed Key Marketplace**](https://github.com/nvrsocial/license-key-market)
