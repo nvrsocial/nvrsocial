@@ -1,4 +1,4 @@
-**Java Backend Developer**
+**Software Developer**
 ---
 
 ## Core skills
